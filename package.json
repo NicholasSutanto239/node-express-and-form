@@ -1,0 +1,22 @@
+{
+  "name": "node-express-and-form",
+  "version": "1.0.0",
+  "description": "Using routers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasSutanto239/node-express-and-form.git"
+  },
+  "author": "Nicholas Sutanto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://https://github.com/NicholasSutanto239/node-express-and-form/issues"
+  },
+  "homepage": "https://https://github.com/NicholasSutanto239/node-express-and-form#readme"
+}
